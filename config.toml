@@ -3,5 +3,6 @@ languageCode = "en-us"
 title = "勝たんしか！！！"
 contentDir = "post"
 disableKinds = ["RSS", "sitemap"]
+theme = "ananke"
 [taxonomies]
 tag = "tags"
